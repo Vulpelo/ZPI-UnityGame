@@ -16,7 +16,7 @@ using UnityEngine.UI;
             fill.color = gradient.Evaluate(1f);
         }
 
-        void setHealth(int health)
+        public void setHealth(int health)
         {
             slider.value = health;
             fill.color = gradient.Evaluate(slider.normalizedValue);

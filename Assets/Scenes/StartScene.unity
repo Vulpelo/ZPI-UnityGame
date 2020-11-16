@@ -128,6 +128,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2618838205183376720, guid: 824d9646f08f4ad4c9e502b9e572f696,
+        type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: aad0964ce67fbbd47924d081df596405, type: 3}
     - target: {fileID: 8180325513128571630, guid: 824d9646f08f4ad4c9e502b9e572f696,
         type: 3}
       propertyPath: m_AnchorMin.y
